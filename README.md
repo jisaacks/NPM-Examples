@@ -8,7 +8,7 @@ Most examples will probably be easily found elsewhere. The goal here is to compi
 
 ### Express View Engines
 
-  * [handlebars](tree/view-engine-handlebars)
+  * [handlebars](https://github.com/jisaacks/NPM-Examples/tree/view-engine-handlebars)
 
 
 __More examples to come__
