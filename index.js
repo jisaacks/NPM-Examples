@@ -1,7 +1,8 @@
 // -- Load Modules -- //
 
-var express = require("express");
-var hbs     = require("express-handlebars");
+var express     = require("express");
+var hbs         = require("express-handlebars");
+var handlebars  = require("handlebars");
 
 
 // -- Setup Express -- //
@@ -10,8 +11,9 @@ var app = express();
 
 // Create Handlebars engine
 var hbsEngine = hbs({
-  extname       : 'hbs',
-  defaultLayout : 'main'
+  extname       : 'hbs',     // Set template extension to .hbs
+  defaultLayout : 'main',    // Set default layout
+  handlebars    : handlebars // Use custom build of handlebars
 });
 
 // Register engine
