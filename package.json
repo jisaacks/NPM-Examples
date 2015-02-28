@@ -1,0 +1,15 @@
+{
+  "name": "view-engine-handlebars",
+  "version": "0.0.0",
+  "description": "Example app demonstrating how to use handlebars templates as a view engine in express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JD Isaacks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.12.0",
+    "express-handlebars": "~1.2.1"
+  }
+}
