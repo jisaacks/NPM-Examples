@@ -9,6 +9,7 @@ Most examples will probably be easily found elsewhere. The goal here is to compi
 ### Express View Engines
 
   * [handlebars](https://github.com/jisaacks/NPM-Examples/tree/view-engine-handlebars)
+  * [jade](https://github.com/jisaacks/NPM-Examples/tree/view-engine-jade)
 
 
 __More examples to come__
