@@ -1,0 +1,25 @@
+{
+  "name": "modular-require-react",
+  "version": "0.0.0",
+  "description": "Example app demonstrating how to use requirejs + react in express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JD Isaacks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.12.0",
+    "jade": "~1.9.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-less": "^3.0.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-react": "^3.0.1",
+    "main-bower-files": "^2.6.2",
+    "underscore": "^1.8.3"
+  }
+}
