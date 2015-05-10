@@ -1,0 +1,23 @@
+{
+  "name": "modular-browserify-es6-react",
+  "version": "0.0.0",
+  "description": "Example app demonstrating how to use browserify + react in ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JD Isaacks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.12.0",
+    "jade": "~1.9.2",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babelify": "^6.0.2",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.0"
+  }
+}
