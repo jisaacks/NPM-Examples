@@ -1,3 +1,3 @@
-# Express with Jade
+# Require.js + React.js
 
-Example app demonstrating how to use jade in express.
+Example app using require.js and react.js
