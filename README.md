@@ -16,6 +16,7 @@ Most examples will probably be easily found elsewhere. The goal here is to compi
 
   * [Require.js + React.js](https://github.com/jisaacks/NPM-Examples/tree/modular-require-react)
   * [Browserify + ES6 + React.js](https://github.com/jisaacks/NPM-Examples/tree/modular-browserify-es6-react)
+  * [Mincer + React.js](https://github.com/jisaacks/NPM-Examples/tree/modular-mincer-react)
 
 
 __More examples to come__
