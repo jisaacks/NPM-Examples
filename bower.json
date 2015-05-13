@@ -1,0 +1,22 @@
+{
+  "name": "NPM-Examples",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jisaacks/NPM-Examples",
+  "description": "Example app demonstrating how to use mincer + react in express.",
+  "authors": [
+    "JD Isaacks"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.serializeJSON": "~2.5.0",
+    "react": "~0.13.2"
+  }
+}

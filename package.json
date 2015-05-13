@@ -1,0 +1,25 @@
+{
+  "name": "modular-mincer-react",
+  "version": "0.0.0",
+  "description": "Example app demonstrating how to use mincer + react in express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JD Isaacks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.12.0",
+    "jade": "~1.9.2",
+    "mincer": "^1.2.4",
+    "mincer-jsx": "0.0.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-mincer": "0.0.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.0",
+    "main-bower-files": "^2.6.2",
+    "underscore": "^1.8.3"
+  }
+}
